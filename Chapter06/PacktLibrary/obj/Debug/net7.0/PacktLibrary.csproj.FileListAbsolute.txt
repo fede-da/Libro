@@ -1,0 +1,12 @@
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/Chapter06/PacktLibrary/bin/Debug/net7.0/PacktLibrary.deps.json
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/Chapter06/PacktLibrary/bin/Debug/net7.0/PacktLibrary.dll
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/Chapter06/PacktLibrary/bin/Debug/net7.0/PacktLibrary.pdb
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/Chapter06/PacktLibrary/obj/Debug/net7.0/PacktLibrary.csproj.AssemblyReference.cache
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/Chapter06/PacktLibrary/obj/Debug/net7.0/PacktLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/Chapter06/PacktLibrary/obj/Debug/net7.0/PacktLibrary.AssemblyInfoInputs.cache
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/Chapter06/PacktLibrary/obj/Debug/net7.0/PacktLibrary.AssemblyInfo.cs
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/Chapter06/PacktLibrary/obj/Debug/net7.0/PacktLibrary.csproj.CoreCompileInputs.cache
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/Chapter06/PacktLibrary/obj/Debug/net7.0/PacktLibrary.dll
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/Chapter06/PacktLibrary/obj/Debug/net7.0/refint/PacktLibrary.dll
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/Chapter06/PacktLibrary/obj/Debug/net7.0/PacktLibrary.pdb
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/Chapter06/PacktLibrary/obj/Debug/net7.0/ref/PacktLibrary.dll

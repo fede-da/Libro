@@ -1,0 +1,7 @@
+﻿In this chapter:
+- local functions and operators
+- delegates, events
+- interfaces, genrics and deriving types
+- inheritance
+- polymorphism and cast
+

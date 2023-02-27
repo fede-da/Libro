@@ -1,0 +1,13 @@
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/obj/Debug/net7.0/Libro.csproj.AssemblyReference.cache
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/obj/Debug/net7.0/Libro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/obj/Debug/net7.0/Libro.csproj.CoreCompileInputs.cache
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/bin/Debug/net7.0/Libro
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/bin/Debug/net7.0/Libro.deps.json
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/bin/Debug/net7.0/Libro.runtimeconfig.json
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/bin/Debug/net7.0/Libro.dll
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/bin/Debug/net7.0/Libro.pdb
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/obj/Debug/net7.0/Libro.dll
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/obj/Debug/net7.0/refint/Libro.dll
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/obj/Debug/net7.0/Libro.pdb
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/obj/Debug/net7.0/Libro.genruntimeconfig.cache
+/Users/mac.fede/Documents/GitHub/CSharp/pratica/new_libro/Libro/Libro/obj/Debug/net7.0/ref/Libro.dll
